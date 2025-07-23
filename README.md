@@ -31,7 +31,7 @@ This repository contains our solution for Assignment 4 of the Trustworthy Machin
 
 - **Quantitative Metrics:** Entropy, sparsity, and perturbation measures for explanation evaluation.
 - **Comparative Analysis:**  Evaluation of explanation quality across different image categories.
-- **  Visualization:** Heatmap generation to show model attention regions
+- **Visualization:** Heatmap generation to show model attention regions
 
 ---
 
